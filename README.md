@@ -1,4 +1,4 @@
-# Intercom-Repo
+# Flatten Nested Arrays and Invite Customers to coordinates
 This coding exam is implemented in .NET Core and C#
 
 # Flatten Nested Arrays
